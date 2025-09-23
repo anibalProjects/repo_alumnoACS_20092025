@@ -1,1 +1,6 @@
-# repo_alumnoACS_20092025
+# repo\_alumnoACS\_20092025
+
+
+
+Este proyecto es una prueba practica de clase
+
